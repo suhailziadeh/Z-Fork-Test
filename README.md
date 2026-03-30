@@ -6,12 +6,9 @@ I'm in class IS-1003-0022-202620. I'm a Multi-Disciplinary Studies Major with my
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-[![Magic The Gathering](https://img.shields.io/badge/Magic%20The%20Gathering?style=flat&logo=Magic%20The%20Gathering&logoColor=Green
-)
-[![Coffee](https://img.shields.io/badge/Coffee?style=flat&logo=Coffee&logoColor=Brown
-)
-[![Video Games](https://img.shields.io/badge/Video%20Games-Red?style=flat&logo=Video%20Games&logoColor=Red
-)
+[![Magic The Gathering](https://img.shields.io/badge/Magic%20The%20Gathering?style=flat&logo=Magic%20The%20Gathering&logoColor=Green)
+[![Coffee](https://img.shields.io/badge/Coffee?style=flat&logo=Coffee&logoColor=Brown)
+[![Video Games](https://img.shields.io/badge/Video%20Games-Red?style=flat&logo=Video%20Games&logoColor=Red)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/suhailziadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhail-ziadeh)
