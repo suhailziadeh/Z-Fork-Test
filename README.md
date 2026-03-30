@@ -6,7 +6,7 @@ I'm in class IS-1003-0022-202620. I'm a Multi-Disciplinary Studies Major with my
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-[![Magic The Gathering](https://img.shields.io/badge/Magic%20The%20Gathering?style=flat&logo=Magic%20The%20Gathering&logoColor=Green)
+[![Magic The Gathering](https://img.shields.io/badge/Magic%20The%20Gathering?style=flat&logo=Video%20Games&logoColor=Red)
 [![Coffee](https://img.shields.io/badge/Coffee?style=flat&logo=Coffee&logoColor=Brown)
 [![Video Games](https://img.shields.io/badge/Video%20Games-Red?style=flat&logo=Video%20Games&logoColor=Red)
 ## 🔗 Links
